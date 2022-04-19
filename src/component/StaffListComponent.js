@@ -2,6 +2,15 @@ import React, { Component } from 'react';
 import { Card, CardBody, CardTitle, CardText } from 'reactstrap';
 import dateFormat from "dateformat";
 
+const colList = {
+    defaultCol: 'col col-md-6 col-lg-4 mt-5',
+    sixCol: 'col-md-2 mt-5',
+    fourCol: 'col-sm-3 mt-5',
+    twoCol: 'col-sm-6 mt-5'
+}
+
+let { defaultCol, sixCol, fourCol, twoCol } = colList;
+
 class StaffList extends Component {
     
     constructor(props) {
@@ -9,7 +18,7 @@ class StaffList extends Component {
 
         this.state = { 
             selectStaff: null,
-            colDefault: "col-md-6 col-lg-4 mt-5"
+            colDefault: defaultCol
         }
     }
 
@@ -69,19 +78,19 @@ class StaffList extends Component {
                 <div className="row">
                     <button
                         className='btn btn-success mr-2'
-                        onClick={() => this.onColSelect('col-md-2 mt-5')}
+                        onClick={() => this.onColSelect(sixCol)}
                     >
                         6 cột
                     </button>
                     <button
                         className='btn btn-success mr-2'
-                        onClick={() => this.onColSelect('col-sm-3 mt-5')}
+                        onClick={() => this.onColSelect(fourCol)}
                     >
                         4 cột
                     </button>
                     <button
                         className='btn btn-success'
-                        onClick={() => this.onColSelect('col-sm-6 mt-5')}
+                        onClick={() => this.onColSelect(twoCol)}
                     >
                         2 cột
                     </button>
