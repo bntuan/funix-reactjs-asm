@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import { Card, CardBody, CardTitle, CardImg, CardText } from 'reactstrap';
+import { Card, CardBody, CardTitle, CardText } from 'reactstrap';
 import dateFormat from "dateformat";
 
 class StaffList extends Component {
-
+    
     constructor(props) {
         super(props);
 
@@ -68,10 +68,22 @@ class StaffList extends Component {
             <div className="container">
                 <div className="row">
                     <button
-                        className='btn btn-success'
-                        onClick={() => this.onColSelect('col-lg-2 mt-5')}
+                        className='btn btn-success mr-2'
+                        onClick={() => this.onColSelect('col-md-2 mt-5')}
                     >
                         6 cột
+                    </button>
+                    <button
+                        className='btn btn-success mr-2'
+                        onClick={() => this.onColSelect('col-sm-3 mt-5')}
+                    >
+                        4 cột
+                    </button>
+                    <button
+                        className='btn btn-success'
+                        onClick={() => this.onColSelect('col-sm-6 mt-5')}
+                    >
+                        2 cột
                     </button>
                 </div>
                 <div className="row">
