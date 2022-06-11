@@ -43,10 +43,6 @@ const Salary = (props) => {
                     <BreadcrumbItem active>Bang Luong</BreadcrumbItem>
                 </Breadcrumb>
             </div>
-
-            <button className='btn btn-danger' onClick={() => setSortsalary(!sortSalary)}>
-                Sap xep theo he so luong
-            </button>
             <div className='row shadow mb-3'>{salary}</div>
         </div>
     );
