@@ -1,0 +1,268 @@
+<mxfile host="65bd71144e">
+    <diagram id="PwCZdAR4eDsHewi5N_Js" name="StaffList">
+        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="40" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="LOGO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="50" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="NHAN VIEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="PHONG BAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="BANG LUONG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="480" width="680" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="160" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="240" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="320" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="TÊN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="600" y="400" width="80" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="EQJTAussmH2bmjJajPGj" name="StaffInfo">
+        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="d6FCyVzGP76vIOw_wsVJ-0"/>
+                <mxCell id="d6FCyVzGP76vIOw_wsVJ-1" parent="d6FCyVzGP76vIOw_wsVJ-0"/>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="80" y="40" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-1" value="LOGO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="90" y="50" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-2" value="NHAN VIEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="280" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-3" value="PHONG BAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-4" value="BANG LUONG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="600" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-5" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="80" y="480" width="680" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-29" value="ẢNH" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="160" y="200" width="160" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="Bl5t5vdlA-q_I6GAjbjB-34" value="&lt;ul style=&quot;font-size: 17px&quot;&gt;&lt;li&gt;info 1&lt;/li&gt;&lt;li&gt;info 2&lt;/li&gt;&lt;li&gt;info 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="345" y="240" width="150" height="120" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên&amp;nbsp;" placeholders="1" name="Variable" id="59OHpha4joh6AAnz5_yg-3">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=17;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                        <mxGeometry x="360" y="210" width="80" height="20" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="NHAN VIEN" link="https://www.draw.io" id="59OHpha4joh6AAnz5_yg-4">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                        <mxGeometry x="120" y="120" width="160" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="59OHpha4joh6AAnz5_yg-7" value="/ TÊN&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="d6FCyVzGP76vIOw_wsVJ-1">
+                    <mxGeometry x="200" y="120" width="100" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="_PMq7RftD9YBdkI9Cx1E" name="Department">
+        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="LV5ZX5MkRUqndcMBrIyy-0"/>
+                <mxCell id="LV5ZX5MkRUqndcMBrIyy-1" parent="LV5ZX5MkRUqndcMBrIyy-0"/>
+                <mxCell id="mgO9jluycDSsPQYux-8B-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="80" y="40" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mgO9jluycDSsPQYux-8B-1" value="LOGO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="90" y="50" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="mgO9jluycDSsPQYux-8B-2" value="NHAN VIEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="280" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mgO9jluycDSsPQYux-8B-3" value="PHONG BAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mgO9jluycDSsPQYux-8B-4" value="BANG LUONG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="600" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mgO9jluycDSsPQYux-8B-5" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                    <mxGeometry x="80" y="480" width="680" height="80" as="geometry"/>
+                </mxCell>
+                <UserObject label="PHONG BAN" link="https://www.draw.io" id="mgO9jluycDSsPQYux-8B-9">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                        <mxGeometry x="120" y="120" width="160" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="PHONG BAN 2&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Số lượng nhân viên:&amp;nbsp;&lt;/font&gt;" placeholders="1" name="Variable" id="mgO9jluycDSsPQYux-8B-16">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                        <mxGeometry x="500" y="200" width="220" height="80" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="PHONG BAN 1&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Số lượng nhân viên:&amp;nbsp;&lt;/font&gt;" placeholders="1" name="Variable" id="mgO9jluycDSsPQYux-8B-17">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                        <mxGeometry x="120" y="200" width="220" height="80" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="PHONG BAN 3&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Số lượng nhân viên:&amp;nbsp;&lt;/font&gt;" placeholders="1" name="Variable" id="mgO9jluycDSsPQYux-8B-18">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                        <mxGeometry x="120" y="360" width="220" height="80" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="PHONG BAN 4&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;font size=&quot;1&quot;&gt;Số lượng nhân viên:&amp;nbsp;&lt;/font&gt;" placeholders="1" name="Variable" id="mgO9jluycDSsPQYux-8B-19">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="LV5ZX5MkRUqndcMBrIyy-1">
+                        <mxGeometry x="500" y="360" width="220" height="80" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="Bx5uncIXXezHyz8ZB6y6" name="Salary">
+        <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="tQZZN4y3R5q-cQ2MZGTF-0"/>
+                <mxCell id="tQZZN4y3R5q-cQ2MZGTF-1" parent="tQZZN4y3R5q-cQ2MZGTF-0"/>
+                <mxCell id="19el3ZnUe07e8P-POTUO-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="80" y="40" width="680" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19el3ZnUe07e8P-POTUO-1" value="LOGO" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="90" y="50" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19el3ZnUe07e8P-POTUO-2" value="NHAN VIEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="280" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19el3ZnUe07e8P-POTUO-3" value="PHONG BAN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="440" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19el3ZnUe07e8P-POTUO-4" value="BANG LUONG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="600" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19el3ZnUe07e8P-POTUO-5" value="FOOTER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="80" y="600" width="680" height="80" as="geometry"/>
+                </mxCell>
+                <UserObject label="/&amp;nbsp; Salary" link="https://www.draw.io" id="19el3ZnUe07e8P-POTUO-6">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="240" y="120" width="160" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="19el3ZnUe07e8P-POTUO-8">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="110" y="200" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <UserObject label="NHAN VIEN" link="https://www.draw.io" id="aKSoSBBab6BonunX9GDT-0">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontColor=#FFFFFF;fontStyle=5;fontSize=17;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="120" y="120" width="160" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-1" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="100" y="240" width="170" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="aKSoSBBab6BonunX9GDT-2">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="300" y="200" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-3" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="290" y="240" width="170" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="aKSoSBBab6BonunX9GDT-4">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="530" y="200" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-5" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="520" y="240" width="170" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="aKSoSBBab6BonunX9GDT-6">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="110" y="390" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-7" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="100" y="430" width="170" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="aKSoSBBab6BonunX9GDT-8">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="300" y="390" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-9" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="290" y="430" width="170" height="130" as="geometry"/>
+                </mxCell>
+                <UserObject label="Tên nhân viên" placeholders="1" name="Variable" id="aKSoSBBab6BonunX9GDT-10">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=16;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                        <mxGeometry x="530" y="390" width="130" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+                <mxCell id="aKSoSBBab6BonunX9GDT-11" value="&lt;ul&gt;&lt;li&gt;Mã nhân viên&lt;/li&gt;&lt;li&gt;Hệ số lương&lt;/li&gt;&lt;li&gt;Lương&lt;/li&gt;&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=15;fontColor=#FFFFFF;" vertex="1" parent="tQZZN4y3R5q-cQ2MZGTF-1">
+                    <mxGeometry x="520" y="430" width="170" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
