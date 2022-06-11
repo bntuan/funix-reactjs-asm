@@ -5,6 +5,7 @@ import StaffDetail from "./StaffDetail";
 import Footer from "./Footer";
 import { Switch, Route } from 'react-router-dom';
 import { DEPARTMENTS, STAFFS } from '../shared/staffs';
+import Department from "./Department";
 
 function Main() {
     const [nhanvien, setNhanVien] = useState({
@@ -35,6 +36,10 @@ function Main() {
                 <Route
                     path='/nhanvien/:nhanvienId'
                     component={StaffWithId}
+                />
+                <Route
+                    path='/phongban'
+                    component={() => <Department dept={nhanvien.departments} />}
                 />
             </Switch>
             <Footer />
