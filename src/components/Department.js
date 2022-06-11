@@ -1,17 +1,15 @@
 import React, { Component } from 'react';
 import { Card, CardTitle, CardBody, CardText } from 'reactstrap';
 
-class RenderDept extends Component {
-    render() {
-        return (
-            <Card>
-                <CardTitle className='m-2'>{this.props.dept.name}</CardTitle>
-                <CardBody>
-                    <CardText>So luong nhan vien: {this.props.dept.numberOfStaff}</CardText>
-                </CardBody>
-            </Card>
-        );
-    }
+function RenderDept(props) {
+    return (
+        <Card>
+            <CardTitle className='m-2'>{props.dept.name}</CardTitle>
+            <CardBody>
+                <CardText>So luong nhan vien: {props.dept.numberOfStaff}</CardText>
+            </CardBody>
+        </Card>
+    );
 }
 
 function Department(props) {
