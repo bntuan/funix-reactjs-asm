@@ -11,7 +11,7 @@ function StaffDetail(props) {
                 <div className='row'>
                     <Breadcrumb>
                         {/* <BreadcrumbItem><Link to='/home'>Home</Link></BreadcrumbItem> */}
-                        <BreadcrumbItem><Link to='/staff'>Nhan Vien</Link></BreadcrumbItem>
+                        <BreadcrumbItem><Link to='/nhanvien'>Nhan Vien</Link></BreadcrumbItem>
                         <BreadcrumbItem active>{props.nv.name}</BreadcrumbItem>
                     </Breadcrumb>
                     <div className='col-12'>

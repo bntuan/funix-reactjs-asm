@@ -38,11 +38,15 @@ const Salary = (props) => {
             <div className='row'>
                 <Breadcrumb>
                     <BreadcrumbItem>
-                        <Link to='/staff'>Nhan Vien</Link>
+                        <Link to='/nhanvien'>Nhan Vien</Link>
                     </BreadcrumbItem>
                     <BreadcrumbItem active>Bang Luong</BreadcrumbItem>
                 </Breadcrumb>
             </div>
+
+            <button className='btn btn-danger' onClick={() => setSortsalary(!sortSalary)}>
+                Sap xep theo he so luong
+            </button>
             <div className='row shadow mb-3'>{salary}</div>
         </div>
     );
