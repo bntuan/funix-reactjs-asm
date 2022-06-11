@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import Header from "./Header";
 import StaffList from "./StaffList";
 import StaffDetail from "./StaffDetail";
+import Salary from "./Salary";
 import Footer from "./Footer";
 import { Switch, Route } from 'react-router-dom';
 import { DEPARTMENTS, STAFFS } from '../shared/staffs';
@@ -40,6 +41,10 @@ function Main() {
                 <Route
                     path='/phongban'
                     component={() => <Department dept={nhanvien.departments} />}
+                />
+                <Route
+                    path='/bangluong'
+                    component={() => <Salary luong={nhanvien.staffs} />}
                 />
             </Switch>
             <Footer />
